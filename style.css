@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Titulo;
+    src: url(../jogo-de-resgate-com-JavaScript/fontes/ANODETONOONE.TTF);
+}
+
+h1 {
+    font-family: Titulo;
+    font-size: 40px;
+    color: #603A03;
+}
+
